@@ -91,7 +91,7 @@ Any custom charts created during analysis can be stored in the `images/` folder 
 movie-success-predictor/
 │
 ├── movies.csv
-├── train_model.py
+├── movie-model-training.py
 ├── predictor.py
 │
 ├── movie-success-predictor.joblib
