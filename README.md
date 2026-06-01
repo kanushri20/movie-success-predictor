@@ -141,6 +141,7 @@ No_of_Votes: 23472739
 
 Predicted Movie Success: Hit
 ```
+<img width="1919" height="1129" alt="Screenshot 2026-06-01 234401" src="https://github.com/user-attachments/assets/6ca8840a-0746-4ad3-a69d-a602c0f1a2f9" />
 
 ---
 
@@ -178,7 +179,7 @@ Predicted Movie Success: Hit
 
 ## Author
 
-**@kanushri20**
+[kanushri20]
 
 This project was created to learn:
 
